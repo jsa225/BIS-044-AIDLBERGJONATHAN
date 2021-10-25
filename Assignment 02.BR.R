@@ -17,9 +17,5 @@ theDF$x[3]
 # Editing names
 names(theDF)<-c("Popularity", "Team Strength", "Sport")
 sd(theDF$"Team Strength")
-<<<<<<< HEAD
 
-=======
-#50/50
->>>>>>> main
 
