@@ -17,3 +17,4 @@ for (i in 1:length(data$votes)) {
 
 cat ("Biden: ", sumofvotesforbiden, "\n")
 cat ("Trump: ", sumofvotesfortrump)
+#50/50
